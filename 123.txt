@@ -5,4 +5,4 @@ dadd
 Git is a distributed verison control system
 Git is free software distributed under thr GPl
 Git has a mutable index called stage
-Git tracks changes
+Git tracks changes of files
